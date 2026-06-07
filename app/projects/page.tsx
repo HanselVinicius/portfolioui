@@ -73,7 +73,7 @@ export default function ProjectsPage() {
                 "Bootstrap",
                 "Machine Learning",
               ]}
-              href="https://github.com/computational-chemical-biology/ClusterApp"
+              href="https://www.biorxiv.org/content/10.1101/2025.02.12.637912v1"
             />
           </div>
         </Container>
