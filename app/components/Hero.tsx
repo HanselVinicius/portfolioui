@@ -17,7 +17,7 @@ export function Hero() {
 
       <div className="mt-10 flex items-center gap-4">
         <a
-          href="#projects"
+          href="projects"
           className="
             bg-zinc-100
             text-zinc-950
